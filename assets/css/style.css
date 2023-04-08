@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alike+Angular&family=Asul&family=Concert+One&family=Eczar&family=Fruktur&family=Kavoon&family=Lato:wght@300&family=Neuton&family=Space+Mono&family=Tillana&family=Work+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alike+Angular&family=Asul&family=Concert+One&family=Eczar&family=Fruktur&family=Kavoon&family=Lato:wght@300&family=Neuton&family=Space+Mono&family=Tillana&family=Work+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 body { 
-    font-family: arial;
+    font-family: Lato;
+    font-weight: 300;
 }
